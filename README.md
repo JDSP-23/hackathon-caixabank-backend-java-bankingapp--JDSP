@@ -1,6 +1,6 @@
 
 # Solución Java Backend para The Game is HackathON
-Este repositorio contiene mi primera implementación de un backend en Java utilizando Spring Boot, creada para participar en The Game is HackathON, organizado por CaixaBank Tech. Fue una experiencia de aprendizaje intensa y emocionante en la que puse a prueba mis habilidades y enfrenté retos significativos. Aunque el código puede tener áreas de mejora (¡se aceptan sugerencias y disculpen cualquier barbaridad de principiante!), espero que este proyecto pueda servir como base o inspiración para otros.
+Este repositorio contiene mi primera implementación de un backend en Java utilizando Spring Boot, creada para participar en The Game is HackathON, organizado por CaixaBank Tech. Fue una experiencia de aprendizaje intensa y emocionante en la que puse a prueba mis habilidades y enfrenté retos significativos. Aunque el código puede tener áreas de mejora (ignorar cualquier barbaridad en el codigo!), espero que este proyecto pueda servir como base o inspiración para otros.
 
 # 🏦 The Game is HackathON Java Backend Challenge ☕️
 
